@@ -1,0 +1,38 @@
+name: Daily ePaper Delivery
+
+on:
+  schedule:
+    # 7:10 AM IST = 01:40 UTC
+    - cron: "40 1 * * *"
+  workflow_dispatch:   # allows manual trigger from GitHub UI
+
+jobs:
+  deliver-epapers:
+    name: Scrape & Deliver ePapers
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Python setup ────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Install dependencies ────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml pytz
+
+      # ── 4. Run the delivery script ─────────────────────────────────────────
+      - name: Run ePaper delivery
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python epaper_delivery.py
