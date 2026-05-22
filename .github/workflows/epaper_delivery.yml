@@ -2,12 +2,13 @@ name: Daily ePaper Delivery
 
 on:
   schedule:
-    # Runs every hour starting 7:30 AM IST (02:00 UTC)
-    - cron: "0 2-16 * * *"
+    # Runs every hour from 7:30 AM to 11:30 PM IST (02:00–18:00 UTC)
+    - cron: "0 2-18 * * *"
   workflow_dispatch:   # manual trigger from GitHub Actions UI
 
 permissions:
   contents: write      # needed to commit epaper_log.json back to repo
+
 
 jobs:
   deliver-epapers:
