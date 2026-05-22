@@ -2,9 +2,8 @@ name: Daily ePaper Delivery
 
 on:
   schedule:
-    # Runs every hour from 7:10 AM to 10:10 PM IST (01:40–16:40 UTC)
-    # 8 attempts total; script skips papers already sent
-    - cron: "40 1-16 * * *"
+    # Runs every hour starting 7:30 AM IST (02:00 UTC)
+    - cron: "0 2-16 * * *"
   workflow_dispatch:   # manual trigger from GitHub Actions UI
 
 permissions:
