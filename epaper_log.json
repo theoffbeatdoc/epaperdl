@@ -15,5 +15,22 @@
       "detail": "pdf",
       "timestamp": "2026-05-22T04:05:01Z"
     }
+  },
+  "2026-05-23": {
+    "The Telegraph": {
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-05-23T05:26:34Z"
+    },
+    "Anandabazar Patrika": {
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-05-23T05:26:46Z"
+    },
+    "The Economic Times": {
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-05-23T05:26:55Z"
+    }
   }
 }
