@@ -2,7 +2,7 @@ name: Daily ePaper Delivery
 
 on:
   schedule:
-    - cron: "45 1-17 * * *"  # every hour from 7:15 AM IST to 11:15 PM IST
+    - cron: "45 18-23,0-17 * * *" # Runs every hour at 15 minutes past in IST
   workflow_dispatch:   # manual trigger from GitHub Actions UI
 
 permissions:
