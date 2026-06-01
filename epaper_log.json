@@ -189,18 +189,18 @@
   "2026-06-02": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-01T19:13:12Z"
+      "detail": "fetch_error: 504 Server Error: Gateway Time-out for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
+      "timestamp": "2026-06-01T22:24:59Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-01T19:13:13Z"
+      "detail": "fetch_error: 504 Server Error: Gateway Time-out for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
+      "timestamp": "2026-06-01T22:25:09Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-01T19:13:14Z"
+      "detail": "fetch_error: 504 Server Error: Gateway Time-out for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
+      "timestamp": "2026-06-01T22:25:19Z"
     }
   }
 }
