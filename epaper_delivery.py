@@ -50,15 +50,15 @@ def parse_date_from_text(text: str) -> datetime | None:
     Parse a date string from paragraph text.
     Handles: '20 May 2026', '20 May, 2026', '20/05/2026', '20-05-2026'
     """
-    # "20 May 2026" or "20 May, 2026"
+    # "20 May 2026", "20 May, 2026", "20 Jan 2026", "20 Jan, 2026" etc.
     m = re.search(r'(\d{1,2})\s+([A-Za-z]+),?\s+(\d{4})', text)
     if m:
-        try:
-            return datetime.strptime(
-                f"{m.group(1)} {m.group(2)} {m.group(3)}", "%d %B %Y"
-            )
-        except ValueError:
-            pass
+        day, month, year = m.group(1), m.group(2), m.group(3)
+        for fmt in ("%d %B %Y", "%d %b %Y"):   # %B = full, %b = abbreviated
+            try:
+                return datetime.strptime(f"{day} {month} {year}", fmt)
+            except ValueError:
+                pass
     # "20/05/2026" or "20-05-2026"
     m = re.search(r'(\d{1,2})[/-](\d{1,2})[/-](\d{4})', text)
     if m:
