@@ -292,17 +292,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-07T23:46:10Z"
+      "timestamp": "2026-06-08T03:38:12Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-07T23:46:11Z"
+      "timestamp": "2026-06-08T03:38:13Z"
     },
     "The Economic Times": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-07T23:46:12Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-06-08T03:38:23Z"
     }
   }
 }
