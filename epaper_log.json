@@ -568,8 +568,8 @@
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-24T15:22:50Z"
+      "detail": "fetch_error: ('Connection broken: IncompleteRead(7 bytes read, 10233 more expected)', IncompleteRead(7 bytes read, 10233 more expected))",
+      "timestamp": "2026-06-24T17:31:23Z"
     },
     "The Economic Times": {
       "status": "sent",
