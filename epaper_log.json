@@ -579,19 +579,19 @@
   },
   "2026-06-25": {
     "The Telegraph": {
-      "status": "pending",
-      "detail": "fetch_error: ('Connection broken: IncompleteRead(7 bytes read, 10233 more expected)', IncompleteRead(7 bytes read, 10233 more expected))",
-      "timestamp": "2026-06-25T01:36:12Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-06-25T05:50:44Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-25T01:36:14Z"
+      "timestamp": "2026-06-25T05:50:49Z"
     },
     "The Economic Times": {
-      "status": "pending",
-      "detail": "fetch_error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-      "timestamp": "2026-06-25T01:36:15Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-06-25T05:50:58Z"
     }
   }
 }
