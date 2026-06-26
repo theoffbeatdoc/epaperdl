@@ -598,12 +598,12 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-26T15:15:52Z"
+      "timestamp": "2026-06-26T17:22:40Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-26T15:15:54Z"
+      "timestamp": "2026-06-26T17:22:42Z"
     },
     "The Economic Times": {
       "status": "sent",
