@@ -619,8 +619,8 @@
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-06-27T15:51:30Z"
+      "detail": "fetch_error: 403 Client Error: Forbidden for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
+      "timestamp": "2026-06-27T17:43:45Z"
     },
     "The Economic Times": {
       "status": "sent",
