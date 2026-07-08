@@ -800,14 +800,14 @@
   },
   "2026-07-08": {
     "The Telegraph": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-07-08T04:51:49Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-07-08T07:57:32Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-07-08T04:51:50Z"
+      "timestamp": "2026-07-08T07:57:37Z"
     },
     "The Economic Times": {
       "status": "sent",
