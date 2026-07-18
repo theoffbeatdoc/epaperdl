@@ -971,8 +971,8 @@
   "2026-07-18": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-07-18T04:31:58Z"
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Read timed out. (read timeout=60)",
+      "timestamp": "2026-07-18T06:33:31Z"
     },
     "Anandabazar Patrika": {
       "status": "sent",
