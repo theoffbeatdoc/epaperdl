@@ -971,8 +971,8 @@
   "2026-07-18": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "fetch_error: 403 Client Error: Forbidden for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
-      "timestamp": "2026-07-18T08:26:23Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-07-18T10:03:14Z"
     },
     "Anandabazar Patrika": {
       "status": "sent",
