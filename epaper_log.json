@@ -1090,8 +1090,8 @@
   "2026-07-25": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-07-25T07:35:41Z"
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /the-telegraph-newspaper-free-download-2026/ (Caused by NewConnectionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "timestamp": "2026-07-25T09:22:48Z"
     },
     "Anandabazar Patrika": {
       "status": "sent",
