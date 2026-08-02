@@ -1226,18 +1226,18 @@
   "2026-08-02": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /the-telegraph-newspaper-free-download-2026/ (Caused by NewConnectionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "timestamp": "2026-08-02T12:44:09Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-02T14:13:46Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /anandabazar-patrika-epaper-free-download-2026/ (Caused by NewConnectionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "timestamp": "2026-08-02T12:46:09Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-02T14:13:47Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /economic-times-newspaper-today-2026/ (Caused by NewConnectionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "timestamp": "2026-08-02T12:48:10Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-02T14:13:47Z"
     }
   }
 }
