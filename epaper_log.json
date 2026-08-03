@@ -1244,12 +1244,12 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-03T15:31:19Z"
+      "timestamp": "2026-08-03T17:27:29Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-03T15:31:20Z"
+      "timestamp": "2026-08-03T17:27:30Z"
     },
     "The Economic Times": {
       "status": "sent",
