@@ -1362,18 +1362,18 @@
   "2026-08-10": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /the-telegraph-newspaper-free-download-2026/ (Caused by NameResolutionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to resolve 'dailyepaper.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "timestamp": "2026-08-09T20:02:24Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-09T21:06:21Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /anandabazar-patrika-epaper-free-download-2026/ (Caused by NameResolutionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to resolve 'dailyepaper.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "timestamp": "2026-08-09T20:02:24Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-09T21:06:23Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /economic-times-newspaper-today-2026/ (Caused by NameResolutionError(\"HTTPSConnection(host='dailyepaper.in', port=443): Failed to resolve 'dailyepaper.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "timestamp": "2026-08-09T20:02:24Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-09T21:06:25Z"
     }
   }
 }
