@@ -1397,17 +1397,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T00:41:18Z"
+      "timestamp": "2026-08-12T03:09:58Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T00:41:20Z"
+      "timestamp": "2026-08-12T03:10:10Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T00:41:21Z"
+      "detail": "fetch_error: 520 Server Error: <none> for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
+      "timestamp": "2026-08-12T03:10:23Z"
     }
   }
 }
