@@ -1414,17 +1414,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T18:34:10Z"
+      "timestamp": "2026-08-12T19:46:04Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T18:34:12Z"
+      "timestamp": "2026-08-12T19:46:05Z"
     },
     "The Economic Times": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-12T18:34:13Z"
+      "timestamp": "2026-08-12T19:46:07Z"
     }
   }
 }
