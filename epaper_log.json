@@ -1498,18 +1498,18 @@
   "2026-08-18": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "fetch_error: 403 Client Error: Forbidden for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
-      "timestamp": "2026-08-17T22:58:48Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-17T23:56:48Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "fetch_error: 403 Client Error: Forbidden for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
-      "timestamp": "2026-08-17T22:58:50Z"
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-17T23:56:50Z"
     },
     "The Economic Times": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-17T22:58:51Z"
+      "timestamp": "2026-08-17T23:56:51Z"
     }
   }
 }
