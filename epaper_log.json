@@ -1528,5 +1528,22 @@
       "detail": "pdf",
       "timestamp": "2026-08-19T02:06:58Z"
     }
+  },
+  "2026-08-20": {
+    "The Telegraph": {
+      "status": "pending",
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-19T19:06:06Z"
+    },
+    "Anandabazar Patrika": {
+      "status": "pending",
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-19T19:06:08Z"
+    },
+    "The Economic Times": {
+      "status": "pending",
+      "detail": "date_mismatch_all_candidates",
+      "timestamp": "2026-08-19T19:06:09Z"
+    }
   }
 }
