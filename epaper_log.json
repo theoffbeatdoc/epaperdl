@@ -1549,13 +1549,13 @@
   "2026-08-21": {
     "The Telegraph": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-21T03:34:12Z"
+      "detail": "fetch_error: 522 Server Error: <none> for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
+      "timestamp": "2026-08-21T04:22:06Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-08-21T03:34:13Z"
+      "timestamp": "2026-08-21T04:22:08Z"
     },
     "The Economic Times": {
       "status": "sent",
