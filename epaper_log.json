@@ -1822,17 +1822,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-05T21:41:36Z"
+      "timestamp": "2026-09-05T23:18:42Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-05T21:41:37Z"
+      "timestamp": "2026-09-05T23:18:44Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-05T21:41:38Z"
+      "detail": "fetch_error: 522 Server Error: <none> for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
+      "timestamp": "2026-09-05T23:19:03Z"
     }
   }
 }
