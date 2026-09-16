@@ -1992,17 +1992,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-16T00:48:05Z"
+      "timestamp": "2026-09-16T06:44:26Z"
     },
     "Anandabazar Patrika": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-16T00:48:06Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-09-16T06:44:35Z"
     },
     "The Economic Times": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-16T00:48:07Z"
+      "status": "sent",
+      "detail": "link",
+      "timestamp": "2026-09-16T06:44:45Z"
     }
   }
 }
