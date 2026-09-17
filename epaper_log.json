@@ -2007,19 +2007,19 @@
   },
   "2026-09-17": {
     "The Telegraph": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-17T01:41:26Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-09-17T06:39:13Z"
     },
     "Anandabazar Patrika": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-17T01:41:27Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-09-17T06:39:23Z"
     },
     "The Economic Times": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-17T01:41:28Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-09-17T06:39:38Z"
     }
   }
 }
