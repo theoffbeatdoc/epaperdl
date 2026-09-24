@@ -2126,19 +2126,19 @@
   },
   "2026-09-24": {
     "The Telegraph": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-24T01:38:23Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-09-24T06:44:45Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-24T01:38:24Z"
+      "detail": "fetch_error: 522 Server Error: <none> for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
+      "timestamp": "2026-09-24T06:45:08Z"
     },
     "The Economic Times": {
       "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-09-24T01:38:25Z"
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Read timed out. (read timeout=60)",
+      "timestamp": "2026-09-24T06:46:08Z"
     }
   }
 }
