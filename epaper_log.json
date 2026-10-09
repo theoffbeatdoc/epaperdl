@@ -2381,9 +2381,9 @@
   },
   "2026-10-09": {
     "The Telegraph": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-10-09T09:37:05Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-10-09T16:34:18Z"
     },
     "Anandabazar Patrika": {
       "status": "sent",
