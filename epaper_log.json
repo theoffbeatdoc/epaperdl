@@ -2514,5 +2514,22 @@
       "detail": "date_mismatch_all_candidates",
       "timestamp": "2026-10-16T16:56:44Z"
     }
+  },
+  "2026-10-17": {
+    "The Telegraph": {
+      "status": "pending",
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /the-telegraph-newspaper-free-download-2026/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='dailyepaper.in', port=443) at 0x7faf0714e900>, 'Connection to dailyepaper.in timed out. (connect timeout=60)'))",
+      "timestamp": "2026-10-16T20:04:54Z"
+    },
+    "Anandabazar Patrika": {
+      "status": "pending",
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /anandabazar-patrika-epaper-free-download-2026/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='dailyepaper.in', port=443) at 0x7faf0714f5c0>, 'Connection to dailyepaper.in timed out. (connect timeout=60)'))",
+      "timestamp": "2026-10-16T20:05:54Z"
+    },
+    "The Economic Times": {
+      "status": "pending",
+      "detail": "fetch_error: HTTPSConnectionPool(host='dailyepaper.in', port=443): Max retries exceeded with url: /economic-times-newspaper-today-2026/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='dailyepaper.in', port=443) at 0x7faf0717a300>, 'Connection to dailyepaper.in timed out. (connect timeout=60)'))",
+      "timestamp": "2026-10-16T20:06:54Z"
+    }
   }
 }
