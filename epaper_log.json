@@ -2650,5 +2650,22 @@
       "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
       "timestamp": "2026-10-24T16:14:22Z"
     }
+  },
+  "2026-10-25": {
+    "The Telegraph": {
+      "status": "pending",
+      "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
+      "timestamp": "2026-10-24T18:59:22Z"
+    },
+    "Anandabazar Patrika": {
+      "status": "pending",
+      "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
+      "timestamp": "2026-10-24T18:59:23Z"
+    },
+    "The Economic Times": {
+      "status": "pending",
+      "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
+      "timestamp": "2026-10-24T18:59:25Z"
+    }
   }
 }
