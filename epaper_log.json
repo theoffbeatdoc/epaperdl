@@ -2689,17 +2689,17 @@
     "The Telegraph": {
       "status": "pending",
       "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/the-telegraph-newspaper-free-download-2026/",
-      "timestamp": "2026-10-26T20:08:20Z"
+      "timestamp": "2026-10-27T00:04:07Z"
     },
     "Anandabazar Patrika": {
       "status": "pending",
       "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/anandabazar-patrika-epaper-free-download-2026/",
-      "timestamp": "2026-10-26T20:08:21Z"
+      "timestamp": "2026-10-27T00:04:08Z"
     },
     "The Economic Times": {
       "status": "pending",
       "detail": "fetch_error: 404 Client Error: Not Found for url: https://dailyepaper.in/economic-times-newspaper-today-2026/",
-      "timestamp": "2026-10-26T20:08:22Z"
+      "timestamp": "2026-10-27T00:04:10Z"
     }
   }
 }
