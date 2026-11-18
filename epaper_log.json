@@ -3066,9 +3066,9 @@
       "timestamp": "2026-11-18T04:42:55Z"
     },
     "Anandabazar Patrika": {
-      "status": "pending",
-      "detail": "date_mismatch_all_candidates",
-      "timestamp": "2026-11-18T04:42:59Z"
+      "status": "sent",
+      "detail": "pdf",
+      "timestamp": "2026-11-18T13:27:43Z"
     },
     "The Economic Times": {
       "status": "sent",
